@@ -1,0 +1,1 @@
+const holamundo=()=>"hola mundo";
